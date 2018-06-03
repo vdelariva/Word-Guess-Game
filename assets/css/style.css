@@ -1,0 +1,15 @@
+body {
+    background-image: url(../images/BlackMarble.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    display: flex;
+}
+.container {
+    margin: auto;
+    text-align: center;
+}
+#currentWord {
+    letter-spacing: 10px;
+}
