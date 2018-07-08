@@ -2,6 +2,8 @@
 
 Word Guess Game is a simple version of a hangman style game. The purpose of this assignment was to create a word guess game using Javascript.
 
+Link to [game](https://vdelariva.github.io/Word-Guess-Game/)
+
 **How to Play:**
 
 Press any Alpha key (A-Z, a-z) to start game. Non alpha keys are ignored. The theme of the game is 'World Cities'. The game will randomly select a world city form its internal list. It will then display a blank word using underscores to represent the letters in the word. It is possible to have a multi-word city such as Los Angeles.
